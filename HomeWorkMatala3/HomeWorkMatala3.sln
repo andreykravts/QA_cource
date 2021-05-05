@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkMatala3", "HomeWorkMatala3.csproj", "{B143AA20-25FE-4882-9F41-5CD61FA5F8F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectHomeWorkMatala3", "..\UnitTestProjectHomeWorkMatala3\UnitTestProjectHomeWorkMatala3.csproj", "{11184ED7-0198-4A6E-B0B3-F12B04052BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B143AA20-25FE-4882-9F41-5CD61FA5F8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B143AA20-25FE-4882-9F41-5CD61FA5F8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B143AA20-25FE-4882-9F41-5CD61FA5F8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B143AA20-25FE-4882-9F41-5CD61FA5F8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11184ED7-0198-4A6E-B0B3-F12B04052BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11184ED7-0198-4A6E-B0B3-F12B04052BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11184ED7-0198-4A6E-B0B3-F12B04052BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11184ED7-0198-4A6E-B0B3-F12B04052BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D90C8FA-53CA-42B1-8B2D-EDCE7A77CB0E}
+	EndGlobalSection
+EndGlobal
